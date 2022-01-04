@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @AKcodes1
-- Looking for my first open source project.
-- 👀 I’m interested in contributing anything I could do with c++ or pyhton or something beginner level :)
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any beginner level project
+
 - 📫 How to reach me ? -- email:aniketkolte79@gmail.com
 
 <!---
